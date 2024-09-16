@@ -1,3 +1,7 @@
+import org.jetbrains.kotlin.fir.resolve.calls.tower.TowerScopeLevel
+import java.io.FileInputStream
+import java.util.Properties
+
 val keystorePropertiesFile = rootProject.file("keystore.properties")
 val keystoreProperties = Properties()
 
