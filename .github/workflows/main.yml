@@ -1,4 +1,4 @@
-name: MemoryGame Build
+name: Webulator Build
 on:
   workflow_dispatch:
 jobs:
